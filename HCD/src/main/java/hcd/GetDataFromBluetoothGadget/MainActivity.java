@@ -9,7 +9,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.GetDataFromBluetoothGadget_main);
+        setContentView(R.layout.getdatafrombluetoothgadget_main);
     }
 
 

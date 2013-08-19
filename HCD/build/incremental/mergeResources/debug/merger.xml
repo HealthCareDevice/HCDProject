@@ -24,11 +24,6 @@
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
-                name="activity_main"
-                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\activity_main.xml"
-                qualifiers=""
-                type="layout" />
-            <file
                 name="main"
                 path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\menu\main.xml"
                 qualifiers=""
@@ -45,6 +40,8 @@
                 path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\values\strings.xml"
                 qualifiers="" >
                 <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_save_data_to_android_device" >SaveDataToAndroidDevice
                 </string>
                 <string name="app_name" >HCD
                 </string>
@@ -90,6 +87,26 @@
                     <!-- API 11 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="getdatafrombluetoothgadget_main"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\getdatafrombluetoothgadget_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="save_data_to_android_device"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\menu\save_data_to_android_device.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="savedatatoandroiddevice_main"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\savedatatoandroiddevice_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="gadget_info"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\gadget_info.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="D:\HealthCareDevice\HCDProject\HCD\build\res\rs\debug" />
     </dataSet>

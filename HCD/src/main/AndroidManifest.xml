@@ -16,6 +16,11 @@
         <activity
             android:name="hcd.GetDataFromBluetoothGadget.MainActivity"
             android:label="@string/app_name" >
+
+        </activity>
+        <activity
+            android:name="hcd.SaveDataToAndroidDevice.SaveDataToAndroidDevice"
+            android:label="@string/title_activity_save_data_to_android_device" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
