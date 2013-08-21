@@ -4,9 +4,11 @@
 
     <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
         <activity android:label="@string/app_name" android:name="hcd.GetDataFromBluetoothGadget.MainActivity">
-
         </activity>
         <activity android:label="@string/title_activity_save_data_to_android_device" android:name="hcd.SaveDataToAndroidDevice.SaveDataToAndroidDevice">
+
+        </activity>
+        <activity android:label="@string/title_activity_send_data_to_url" android:name="hcd.SendDataToURL.SendDataToURL">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -14,5 +16,5 @@
             </intent-filter>
         </activity>
     </application>
-
+    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>

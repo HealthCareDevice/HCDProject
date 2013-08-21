@@ -24,13 +24,45 @@
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
+                name="gadget_info"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\gadget_info.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="getdatafrombluetoothgadget_main"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\getdatafrombluetoothgadget_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="savedatatoandroiddevice_main"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\savedatatoandroiddevice_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="senddatatourl"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\senddatatourl.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="main"
                 path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\menu\main.xml"
                 qualifiers=""
                 type="menu" />
             <file
+                name="save_data_to_android_device"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\menu\save_data_to_android_device.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="send_data_to_url"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\menu\send_data_to_url.xml"
+                qualifiers=""
+                type="menu" />
+            <file
                 path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\values\dimens.xml"
                 qualifiers="" >
+                <dimen name="_20" >20dp
+                </dimen>
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
                 <dimen name="activity_vertical_margin" >16dp
@@ -41,9 +73,13 @@
                 qualifiers="" >
                 <string name="action_settings" >Settings
                 </string>
+                <string name="title_activity_send_data_to_url" >SendDataToURL
+                </string>
                 <string name="title_activity_save_data_to_android_device" >SaveDataToAndroidDevice
                 </string>
                 <string name="app_name" >HCD
+                </string>
+                <string name="send_data_to_url" >در این پکیج داده هایی که به طوره موقت در اندروید ذخیره شده اند به یو آر ال خاصی فرستاده میشود. در این مثال فرض شده است که داده های گجت ضربان قلب که شامل ( آی دی کاربر ، ماکزیمم فشار ، مینیمم فشار ، تاریخ ارسال ) به سرور فرستاده میشود
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>
@@ -87,26 +123,6 @@
                     <!-- API 11 theme customizations can go here. -->
                 </style>
             </file>
-            <file
-                name="getdatafrombluetoothgadget_main"
-                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\getdatafrombluetoothgadget_main.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="save_data_to_android_device"
-                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\menu\save_data_to_android_device.xml"
-                qualifiers=""
-                type="menu" />
-            <file
-                name="savedatatoandroiddevice_main"
-                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\savedatatoandroiddevice_main.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="gadget_info"
-                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\gadget_info.xml"
-                qualifiers=""
-                type="layout" />
         </source>
         <source path="D:\HealthCareDevice\HCDProject\HCD\build\res\rs\debug" />
     </dataSet>

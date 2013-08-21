@@ -14,6 +14,7 @@ repositories {
 
 dependencies {
     compile 'com.android.support:support-v4:13.0.+'
+    compile files('libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar')
 }
 
 android {
