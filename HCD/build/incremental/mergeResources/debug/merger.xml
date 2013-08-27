@@ -61,9 +61,9 @@
             <file
                 path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\values\dimens.xml"
                 qualifiers="" >
-                <dimen name="_20" >20dp
-                </dimen>
                 <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="_20" >20dp
                 </dimen>
                 <dimen name="activity_vertical_margin" >16dp
                 </dimen>
@@ -75,9 +75,11 @@
                 </string>
                 <string name="title_activity_send_data_to_url" >SendDataToURL
                 </string>
-                <string name="title_activity_save_data_to_android_device" >SaveDataToAndroidDevice
+                <string name="title_activity_send_data_to_urlby_rest" >Send Data To URL By REST
                 </string>
                 <string name="app_name" >HCD
+                </string>
+                <string name="title_activity_save_data_to_android_device" >SaveDataToAndroidDevice
                 </string>
                 <string name="send_data_to_url" >در این پکیج داده هایی که به طوره موقت در اندروید ذخیره شده اند به یو آر ال خاصی فرستاده میشود. در این مثال فرض شده است که داده های گجت ضربان قلب که شامل ( آی دی کاربر ، ماکزیمم فشار ، مینیمم فشار ، تاریخ ارسال ) به سرور فرستاده میشود
                 </string>
@@ -123,6 +125,16 @@
                     <!-- API 11 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="send_data_to_urlby_rest"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\menu\send_data_to_urlby_rest.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="send_data_to_url_by_rest"
+                path="D:\HealthCareDevice\HCDProject\HCD\src\main\res\layout\send_data_to_url_by_rest.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="D:\HealthCareDevice\HCDProject\HCD\build\res\rs\debug" />
     </dataSet>

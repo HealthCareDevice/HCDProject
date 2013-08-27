@@ -20,11 +20,15 @@
         <activity
             android:name="hcd.SaveDataToAndroidDevice.SaveDataToAndroidDevice"
             android:label="@string/title_activity_save_data_to_android_device" >
-
         </activity>
         <activity
             android:name="hcd.SendDataToURL.SendDataToURL"
             android:label="@string/title_activity_send_data_to_url" >
+
+        </activity>
+        <activity
+            android:name="hcd.SendDataToURL.SendDataToURLByREST"
+            android:label="@string/title_activity_send_data_to_urlby_rest" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -32,5 +36,7 @@
             </intent-filter>
         </activity>
     </application>
-    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
 </manifest>

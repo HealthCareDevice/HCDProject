@@ -6,9 +6,11 @@
         <activity android:label="@string/app_name" android:name="hcd.GetDataFromBluetoothGadget.MainActivity">
         </activity>
         <activity android:label="@string/title_activity_save_data_to_android_device" android:name="hcd.SaveDataToAndroidDevice.SaveDataToAndroidDevice">
-
         </activity>
         <activity android:label="@string/title_activity_send_data_to_url" android:name="hcd.SendDataToURL.SendDataToURL">
+
+        </activity>
+        <activity android:label="@string/title_activity_send_data_to_urlby_rest" android:name="hcd.SendDataToURL.SendDataToURLByREST">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -16,5 +18,7 @@
             </intent-filter>
         </activity>
     </application>
+
     <uses-permission android:name="android.permission.INTERNET"/>
+
 </manifest>

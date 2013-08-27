@@ -1,23 +1,26 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1377078933125 669 2ef6333fdfbdc7760b254efee4d836aaa5b573c1 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$string.class
+1377601967453 731 f4fcf4bf56239016829150d34fe43ea1a0ab9882 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$string.class
 1377078933109 524 7f3d1e61aa208a61d96d10faf8ca8f0690595aca D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$dimen.class
 1376998705328 156948 224c93f1824fa17b96db7250c2e5e2703d45e052 D:\HealthCareDevice\HCDProject\HCD\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar
-1377078933125 467 39ae61af2189c7ed6bce26416c17d3c274e1d696 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$style.class
-1377078933125 515 cf4792f746e1ad028f0ff7f134ce124d3a8e89e9 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$menu.class
+1377602819343 3249 0e60b45818155e0f676b404b7ebae33aaaaafbf9 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SendDataToURL\SendDataToURLByREST$1.class
+1377601967453 467 cb82496e89b9704196db1866c01da83c7a608b6e D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$style.class
+1377601967453 562 b417ff3bb6a0f7d57b2d6b0c91e2f9bcda14ea26 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$menu.class
 1377078458515 4509 701c63f0a3bcd95fc431b20752029cf27deac9d8 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SaveDataToAndroidDevice\BluetoothContentProvider.class
 1377078458562 369 1a6a8e03616ea4a06208a3a961c31ae4ad1e3a17 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\BuildConfig.class
 1377078933109 443 31fbf978d77df9aaf61120a79add77b7db057aa3 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$drawable.class
 1377078458546 4155 95406951908f301ab5f87d4a797232964f3a1192 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SaveDataToAndroidDevice\SaveDataToAndroidDevice.class
-1377078933125 581 19d26bea08ce92776f499f153060c6b64c891dc6 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$layout.class
+1377601967453 629 2522f8d89975327bbe271b4a1ccb7af06ec7dd02 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$layout.class
 1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d E:\Program Files\android-studio2\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
 1377079990687 2280 d83be46c8193c20f652ab44bdf27dd1713f692a0 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SendDataToURL\SendDataToURL$1.class
-1377079990687 1329 1e8fdedb96decab117519c03ab826e67f4eb75f4 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SendDataToURL\SendDataToURL.class
+1377601967437 1092 793c30b17e93b2e0278fccab917c5070c518364a D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SendDataToURL\SendDataToURLByREST.class
+1377601967421 1065 16f41c7667c714800e09d9117b56b0edc393c205 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SendDataToURL\SendDataToURLByREST$1$1.class
+1377601967406 1329 4d41b1fff5256c7ceefddbc62977dfe651416aef D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SendDataToURL\SendDataToURL.class
 1377078458515 1162 4e50f6aa512143af3718a99a99f3b8267243b7e9 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SaveDataToAndroidDevice\BluetoothSQLiteOpenHelper.class
 1377079990687 1016 89cd1fe073296d10b26850f732775c27c7f34ef8 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SendDataToURL\SendDataToURL$1$1.class
 1377078933125 668 916d95a05a083da48a6d78cb2ee9474bed0b12a2 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$id.class
-1377078933125 797 f4e0e01235aea678be27b095db37d22098914c08 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R.class
+1377601967453 797 9422e38d4eab6ccea63fa1bf8f5241c498774570 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R.class
 1377078458531 1586 1bbbc9781b112e4dd6ba2de755bc6135fc189642 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\SaveDataToAndroidDevice\GadgetValuesDB.class
 1377078458500 841 d814e283f519680fcb63c91df3a54325239ae2b1 D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\MainActivity.class
 1377078458546 376 74cee6f074152d252e620be289f297d3ed852edd D:\HealthCareDevice\HCDProject\HCD\build\classes\debug\hcd\GetDataFromBluetoothGadget\R$attr.class
